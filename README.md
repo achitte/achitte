@@ -197,7 +197,7 @@
 | **INCOSE CSEP** | INCOSE | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-certamol-chitte-cert) |
 | **OMG SysML** | Object Management Group | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-cert) |
 | **DS 3DEXPERIENCE Systems Engineering** | Dassault Systèmes | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-cert) |
-| **Value Engagement Framework for C&SI Partner** | Dassault Systèmes | [![View PDF][(https://img.shields.io/badge/View_PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/achitte/achitte/tree/main/certs)]|
+| **Value Engagement Framework for C&SI Partner** | Dassault Systèmes | [![View PDF](https://github.com/achitte/achitte/tree/main/certs)]|
 | **Carving a Professional Edge** | Dale Carnegie | [![View PDF](https://github.com/achitte/achitte/tree/main/certs)]|
 
 > 🔗 View all my badges on **[Credly Profile](https://www.credly.com/users/amol-chitte-cert)**
