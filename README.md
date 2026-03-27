@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&width=600&lines=PLM+Professional+%7C+3DEXPERIENCE+Specialist;Digital+Continuity+%26+Engineering+Change+Expert;Building+Smarter+PLM+Solutions+Every+Day)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0A66C2)
+![Profile Views](https://komarev.com/ghpvc/?username=achitte&style=flat-square&color=0A66C2)
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
@@ -32,7 +32,7 @@
 
 
 ### Development & Integration
-![ENOVIA Configuration](https://img.shields.io/badge/ENOVIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![ENOVIA Configuration](https://img.shields.io/badge/ENOVIA_Configuration-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 
 ### Tools & Productivity
