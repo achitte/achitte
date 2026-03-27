@@ -26,8 +26,8 @@
 ## 🛠️ Tech Stack & Skills
 
 ### PLM Platforms
+![3DEXPERIENCE Platform](https://img.shields.io/badge/3DEXPERIENCE_Platform-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ENOVIA](https://img.shields.io/badge/ENOVIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![3DEXPERIENCE Platform](https://img.shields.io/badge/3DEXPERIENCE-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 
