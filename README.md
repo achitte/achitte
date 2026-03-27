@@ -197,8 +197,8 @@
 | **INCOSE CSEP** | INCOSE | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-certamol-chitte-cert) |
 | **OMG SysML** | Object Management Group | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-cert) |
 | **DS 3DEXPERIENCE Systems Engineering** | Dassault Systèmes | [![View](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amol-chitte-cert) |
-| **Value Engagement Framework for C&SI Partner** | Dassault Systèmes | [![View PDF](https://img.shields.io/badge/View_PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CERTS_REPO/blob/main/certs/vef.pdf) |
-| **Carving a Professional Edge** | Dale Carnegie | [![View PDF](https://img.shields.io/badge/View_PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://github.com/YOUR_GITHUB_USERNAME/YOUR_CERTS_REPO/blob/main/certs/dale_carnegie.pdf](https://github.com/achitte/achitte/blob/d8053c92b936df712ffb9d9478fdcfffcd0f9981/certs/Dale%20Carnegie%20-%20Carving%20A%20Professional%20Edge.pdf)) |
+| **Value Engagement Framework for C&SI Partner** | Dassault Systèmes | [![View PDF](https://img.shields.io/badge/View_PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([https://github.com/achitte/achitte/blob/main/certs/ValueEngagementforCSI.pdf](https://github.com/achitte/achitte/tree/main/certs)) |
+| **Carving a Professional Edge** | Dale Carnegie | [![View PDF](https://img.shields.io/badge/View_PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)]([[https://github.com/YOUR_GITHUB_USERNAME/YOUR_CERTS_REPO/blob/main/certs/dale_carnegie.pdf](https://github.com/achitte/achitte/tree/main/certs)]|
 
 > 🔗 View all my badges on **[Credly Profile](https://www.credly.com/users/amol-chitte-cert)**
 
