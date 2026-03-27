@@ -32,6 +32,7 @@
 
 
 ### Development & Integration
+![ENOVIA Configuration](https://img.shields.io/badge/ENOVIA_Configuration-2C3E50?style=for-the-badge)
 ![ENOVIA Configuration](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![ENOVIA Customization](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
