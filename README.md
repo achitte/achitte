@@ -11,15 +11,15 @@
 
 ## 🙋 About Me
 
-> 💼 **PLM Professional** specializing in **3DEXPERIENCE / CATIA** platform implementations
+> 💼 **PLM Professional** specializing in **ENOVIA** and **3DEXPERIENCE Platform**  implementations
 > 
 > 🏭 Helping organizations unlock **digital continuity**, streamline **engineering change management**, and automate **PLM workflows**
 >
 > 🌍 Based in **Los Angeles, CALIFORNIA**
 >
-> 🔭 Currently working on **Product Lifecycle Management**
+> 🔭 Currently working on **PLM Roadmap Implementation for Automotive industry**
 >
-> 💬 Ask me about **3DEXPERIENCE Platform, ENOVIA, PLM, Agile, MBSE**
+> 💬 Ask me about **3DEXPERIENCE Platform, ENOVIA, PLM, Agile, MBSE, Project Management**
 
 ---
 
