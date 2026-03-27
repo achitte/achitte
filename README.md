@@ -32,6 +32,7 @@
 
 
 ### Development & Integration
+![3DX Platform Management](https://img.shields.io/badge/3DX_Platform_Management-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ENOVIA Configuration](https://img.shields.io/badge/ENOVIA_Configuration-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 
