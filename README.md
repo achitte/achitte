@@ -32,11 +32,8 @@
 
 
 ### Development & Integration
-![3DX  configuration, administration, and support - On-Premise & Cloud - IaaS, PaaS, DS Public Cloud](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ENOVIA Configuration](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![ENOVIA Customization](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Tools & Productivity
