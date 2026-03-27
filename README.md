@@ -33,8 +33,8 @@
 
 ### Development & Integration
 ![3DX Platform Management](https://img.shields.io/badge/3DX_Platform_Management-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![ENOVIA Configuration](https://img.shields.io/badge/ENOVIA_Configuration-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
+![ENOVIA Customization](https://img.shields.io/badge/ENOVIA_Customization-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![3DDashboard](https://img.shields.io/badge/3DDashboard005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 ### Tools & Productivity
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
