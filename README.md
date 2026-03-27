@@ -26,13 +26,14 @@
 ## 🛠️ Tech Stack & Skills
 
 ### PLM Platforms
-![3DEXPERIENCE](https://img.shields.io/badge/3DEXPERIENCE-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![3DEXPERIENCE Platform](https://img.shields.io/badge/3DEXPERIENCE-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ENOVIA](https://img.shields.io/badge/ENOVIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![3DSpace](https://img.shields.io/badge/3DSpace-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 ### Development & Integration
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![	o 3DX  configuration, administration, and support (On-Premise & Cloud - IaaS, PaaS, DS Public Cloud)
+<img width="676" height="20" alt="image" src="https://github.com/user-attachments/assets/ba699d97-0af2-46a5-82a6-c355c32ab052" />
+](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,6 +47,10 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ### Domain Expertise
+![Engineering Change Management](https://img.shields.io/badge/Engineering_Change_Management-2C3E50?style=for-the-badge)
+![Engineering Change Management](https://img.shields.io/badge/Engineering_Change_Management-2C3E50?style=for-the-badge)
+![Engineering Change Management](https://img.shields.io/badge/Engineering_Change_Management-2C3E50?style=for-the-badge)
+![Engineering Change Management](https://img.shields.io/badge/Engineering_Change_Management-2C3E50?style=for-the-badge)
 ![Engineering Change Management](https://img.shields.io/badge/Engineering_Change_Management-2C3E50?style=for-the-badge)
 ![Deviation Management](https://img.shields.io/badge/Deviation_Management-2C3E50?style=for-the-badge)
 ![Digital Continuity](https://img.shields.io/badge/Digital_Continuity-2C3E50?style=for-the-badge)
