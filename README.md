@@ -26,13 +26,13 @@
 ## 🛠️ Tech Stack & Skills
 
 ### PLM Platforms
+![ENOVIA](https://img.shields.io/badge/ENOVIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![3DEXPERIENCE Platform](https://img.shields.io/badge/3DEXPERIENCE-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![ENOVIA](https://img.shields.io/badge/ENOVIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
 
 ### Development & Integration
-![	o 3DX  configuration, administration, and support (On-Premise & Cloud - IaaS, PaaS, DS Public Cloud)
-<img width="676" height="20" alt="image" src="https://github.com/user-attachments/assets/ba699d97-0af2-46a5-82a6-c355c32ab052" />
+![3DX  configuration, administration, and support - On-Premise & Cloud - IaaS, PaaS, DS Public Cloud](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
