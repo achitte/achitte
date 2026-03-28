@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&width=750&lines=PLM+%26+Systems+Engineering+Leader+%7C+16%2B+Years;3DEXPERIENCE+Solution+Architect+%26+MBSE+Evangelist;Driving+Digital+Transformation+%7C+Concept+to+Manufacturing;TOGAF%C2%AE+9+%7C+PMP%C2%AE+%7C+Prosci%C2%AE+OCM+%7C+CSM%C2%AE)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achitte&style=flat-square&color=0A66C2)
-[![GitHub followers](https://img.shields.io/github/followers/achitte?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/achitte?label=Follow&style=social)](https://github.com/achitte)
 
 ---
 
